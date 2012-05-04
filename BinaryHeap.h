@@ -48,9 +48,6 @@ namespace Rise
 		///
 		/// Pops the first item from the heap and resorts the remaining items.
 		///
-		/// @param item
-		///   The item to add. Duplicates are allowed.
-		///
 		//--------------------------------------------------------------------------------
 		T		RemoveFirst();
 
